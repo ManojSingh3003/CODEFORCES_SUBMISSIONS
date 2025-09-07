@@ -2,6 +2,13 @@
 
 | # | Title | Solution | Tags | Submitted |
 |:-:|-------|----------|------|-----------|
+| 55 | [C - Petya and Catacombs](https://codeforces.com/contest/886/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/886/submission/337222423) | `dsu` `greedy` `implementation` `trees` `*1300` | Sep/07/2025 11:57 AM |
+| 54 | [A - Xor-tree](https://codeforces.com/contest/429/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/429/submission/337140702) | `dfs and similar` `trees` `*1300` | Sep/06/2025 05:52 PM |
+| 53 | [C - Anji's Binary Tree](https://codeforces.com/contest/1900/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1900/submission/337105341) | `dfs and similar` `dp` `trees` `*1300` | Sep/06/2025 12:57 PM |
+| 52 | [C - PolandBall and Forest](https://codeforces.com/contest/755/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/755/submission/337094118) | `dfs and similar` `dsu` `graphs` `interactive` `trees` `*1300` | Sep/06/2025 11:09 AM |
+| 51 | [D - Vertical Paths](https://codeforces.com/contest/1675/problem/D) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1675/submission/336962308) | `graphs` `implementation` `trees` `*1300` | Sep/05/2025 01:22 PM |
+| 50 | [D - Masha and a Beautiful Tree](https://codeforces.com/contest/1741/problem/D) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1741/submission/336956758) | `dfs and similar` `divide and conquer` `graphs` `sortings` `trees` `*1300` | Sep/05/2025 12:25 PM |
+| 49 | [C - Make It Permutation](https://codeforces.com/contest/1810/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1810/submission/336267824) | `brute force` `greedy` `sortings` `*1300` | Aug/30/2025 07:33 PM |
 | 48 | [C - Madoka and Formal Statement](https://codeforces.com/contest/1717/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1717/submission/335574814) | `greedy` `*1300` | Aug/26/2025 02:40 PM |
 | 47 | [F - Nilanjan ka Chakravyuh](https://codeforces.com/contest/630676/problem/F) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/630676/submission/335515548) | `*1300` | Aug/25/2025 08:19 PM |
 | 46 | [C - Mere Array](https://codeforces.com/contest/1401/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1401/submission/335305345) | `constructive algorithms` `math` `number theory` `sortings` `*1300` | Aug/24/2025 06:30 PM |

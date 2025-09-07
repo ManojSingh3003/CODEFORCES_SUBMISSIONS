@@ -2,8 +2,10 @@
 
 | # | Title | Solution | Tags | Submitted |
 |:-:|-------|----------|------|-----------|
-| 47 | [A - PizzaForces](https://codeforces.com/contest/1555/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1555/submission/335572651) | `brute force` `math` `*900` | Aug/26/2025 02:29 PM |
-| 46 | [C - Piyush ki Pizza Pareshani](https://codeforces.com/contest/630676/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/630676/submission/335513329) | `*900` | Aug/25/2025 08:02 PM |
+| 49 | [A - Bmail Computer Network](https://codeforces.com/contest/1057/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1057/submission/336509748) | `*special` `dfs and similar` `trees` `*900` | Sep/01/2025 07:12 PM |
+| 48 | [A - PizzaForces](https://codeforces.com/contest/1555/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1555/submission/335572651) | `brute force` `math` `*900` | Aug/26/2025 02:29 PM |
+| 47 | [C - Piyush ki Pizza Pareshani](https://codeforces.com/contest/630676/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/630676/submission/335513329) | `*900` | Aug/25/2025 08:02 PM |
+| 46 | [B - The Secret Number](https://codeforces.com/contest/2132/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2132/submission/334860614) | `math` `*900` | Aug/21/2025 08:42 PM |
 | 45 | [B - Left and Down](https://codeforces.com/contest/2125/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2125/submission/330449268) | `math` `number theory` `*900` | Jul/23/2025 08:23 AM |
 | 44 | [A - Party](https://codeforces.com/contest/115/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/115/submission/329194371) | `dfs and similar` `graphs` `trees` `*900` | Jul/16/2025 06:14 PM |
 | 43 | [A - Dinner Time](https://codeforces.com/contest/2102/problem/A) | [C++17 (GCC 7-32)](https://codeforces.com/contest/2102/submission/324717789) | `constructive algorithms` `math` `*900` | Jun/17/2025 10:01 AM |

@@ -2,6 +2,11 @@
 
 | # | Title | Solution | Tags | Submitted |
 |:-:|-------|----------|------|-----------|
+| 55 | [B - Omkar and Heavenly Tree](https://codeforces.com/contest/1583/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1583/submission/336722246) | `constructive algorithms` `trees` `*1200` | Sep/03/2025 01:28 PM |
+| 54 | [A - Reposts](https://codeforces.com/contest/522/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/522/submission/336636272) | `*special` `dfs and similar` `dp` `graphs` `trees` `*1200` | Sep/02/2025 07:53 PM |
+| 53 | [D - Apple Tree](https://codeforces.com/contest/1843/problem/D) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1843/submission/336535106) | `combinatorics` `dfs and similar` `dp` `math` `trees` `*1200` | Sep/01/2025 10:35 PM |
+| 52 | [C - Even Larger](https://codeforces.com/contest/2134/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2134/submission/335690036) | `brute force` `greedy` `implementation` `*1200` | Aug/26/2025 09:46 PM |
+| 51 | [B - Add 0 or K](https://codeforces.com/contest/2134/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2134/submission/335672672) | `constructive algorithms` `math` `number theory` `*1200` | Aug/26/2025 09:15 PM |
 | 50 | [E - Aatish aur Sikke ki Jugaad](https://codeforces.com/contest/630676/problem/E) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/630676/submission/335575110) | `*1200` | Aug/26/2025 02:41 PM |
 | 49 | [B - Yet Another Coin Problem](https://codeforces.com/contest/1934/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1934/submission/335574457) | `brute force` `dp` `greedy` `math` `*1200` | Aug/26/2025 02:38 PM |
 | 48 | [B - Christmas Spruce](https://codeforces.com/contest/913/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/913/submission/332523055) | `implementation` `trees` `*1200` | Aug/05/2025 08:26 PM |

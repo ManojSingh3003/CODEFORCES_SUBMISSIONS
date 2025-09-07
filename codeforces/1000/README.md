@@ -2,8 +2,9 @@
 
 | # | Title | Solution | Tags | Submitted |
 |:-:|-------|----------|------|-----------|
-| 53 | [C - Premutation](https://codeforces.com/contest/1790/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1790/submission/335572843) | `brute force` `implementation` `math` `*1000` | Aug/26/2025 02:30 PM |
-| 52 | [D - Nilanjan aur Gaayab Ginti ka Raaz](https://codeforces.com/contest/630676/problem/D) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/630676/submission/335509786) | `*1000` | Aug/25/2025 07:36 PM |
+| 54 | [C - Premutation](https://codeforces.com/contest/1790/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1790/submission/335572843) | `brute force` `implementation` `math` `*1000` | Aug/26/2025 02:30 PM |
+| 53 | [D - Nilanjan aur Gaayab Ginti ka Raaz](https://codeforces.com/contest/630676/problem/D) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/630676/submission/335509786) | `*1000` | Aug/25/2025 07:36 PM |
+| 52 | [C1 - The Cunning Seller (easy version)](https://codeforces.com/contest/2132/problem/C1) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2132/submission/334892267) | `greedy` `math` `*1000` | Aug/21/2025 09:13 PM |
 | 51 | [B - Move to the End](https://codeforces.com/contest/2104/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2104/submission/329927956) | `brute force` `data structures` `dp` `greedy` `implementation` `*1000` | Jul/20/2025 11:08 AM |
 | 50 | [B - Minimise Sum](https://codeforces.com/contest/2124/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2124/submission/327876460) | `greedy` `*1000` | Jul/07/2025 11:25 AM |
 | 49 | [C - Prefix Min and Suffix Max](https://codeforces.com/contest/2123/problem/C) | [C++17 (GCC 7-32)](https://codeforces.com/contest/2123/submission/326905939) | `brute force` `data structures` `*1000` | Jul/01/2025 09:02 PM |

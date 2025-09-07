@@ -2,10 +2,16 @@
 
 | # | Title | Solution | Tags | Submitted |
 |:-:|-------|----------|------|-----------|
-| 120 | [B - Lost Permutation](https://codeforces.com/contest/1759/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1759/submission/335572479) | `math` `*800` | Aug/26/2025 02:28 PM |
-| 119 | [B - Ronit Ki Permutation Dhundo](https://codeforces.com/contest/630676/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/630676/submission/335502933) | `*800` | Aug/25/2025 06:45 PM |
-| 118 | [A - Seedha Chal Aatish!](https://codeforces.com/contest/630676/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/630676/submission/335501690) | `*800` | Aug/25/2025 06:35 PM |
-| 117 | [A - Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1903/submission/334671882) | `brute force` `greedy` `sortings` `*800` | Aug/20/2025 07:09 PM |
+| 126 | [A - Painting With Two Colors](https://codeforces.com/contest/2134/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2134/submission/335622007) | `constructive algorithms` `implementation` `math` `*800` | Aug/26/2025 08:11 PM |
+| 125 | [B - Lost Permutation](https://codeforces.com/contest/1759/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1759/submission/335572479) | `math` `*800` | Aug/26/2025 02:28 PM |
+| 124 | [B - Ronit Ki Permutation Dhundo](https://codeforces.com/contest/630676/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/630676/submission/335502933) | `*800` | Aug/25/2025 06:45 PM |
+| 123 | [A - Seedha Chal Aatish!](https://codeforces.com/contest/630676/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/630676/submission/335501690) | `*800` | Aug/25/2025 06:35 PM |
+| 122 | [B - Villagers](https://codeforces.com/contest/2133/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2133/submission/335334011) | `greedy` `*800` | Aug/24/2025 08:20 PM |
+| 121 | [A - Redstone?](https://codeforces.com/contest/2133/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2133/submission/335324650) | `brute force` `data structures` `implementation` `math` `*800` | Aug/24/2025 08:13 PM |
+| 120 | [A - Homework](https://codeforces.com/contest/2132/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2132/submission/334822013) | `brute force` `implementation` `strings` `*800` | Aug/21/2025 08:14 PM |
+| 119 | [A - Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1903/submission/334671882) | `brute force` `greedy` `sortings` `*800` | Aug/20/2025 07:09 PM |
+| 118 | [B - Alternating Series](https://codeforces.com/contest/2131/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2131/submission/333317600) | `constructive algorithms` `greedy` `math` `*800` | Aug/10/2025 08:22 PM |
+| 117 | [A - Lever](https://codeforces.com/contest/2131/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2131/submission/333294292) | `math` `*800` | Aug/10/2025 08:11 PM |
 | 116 | [A - Mix Mex Max](https://codeforces.com/contest/2127/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2127/submission/332812738) | `constructive algorithms` `greedy` `math` `*800` | Aug/07/2025 08:19 PM |
 | 115 | [A - LRC and VIP](https://codeforces.com/contest/2107/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2107/submission/332038844) | `greedy` `number theory` `*800` | Aug/02/2025 11:06 AM |
 | 114 | [A - Submission is All You Need](https://codeforces.com/contest/2130/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2130/submission/331750521) | `greedy` `math` `*800` | Jul/31/2025 08:09 PM |

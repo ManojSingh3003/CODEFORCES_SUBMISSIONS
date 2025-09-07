@@ -2,8 +2,9 @@
 
 | # | Title | Solution | Tags | Submitted |
 |:-:|-------|----------|------|-----------|
-| 53 | [D - Coprime](https://codeforces.com/contest/1742/problem/D) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1742/submission/334680264) | `brute force` `greedy` `number theory` `*1100` | Aug/20/2025 08:07 PM |
-| 52 | [B - Parity and Sum](https://codeforces.com/contest/1993/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1993/submission/334679045) | `constructive algorithms` `greedy` `*1100` | Aug/20/2025 07:58 PM |
+| 54 | [D - Coprime](https://codeforces.com/contest/1742/problem/D) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1742/submission/334680264) | `brute force` `greedy` `number theory` `*1100` | Aug/20/2025 08:07 PM |
+| 53 | [B - Parity and Sum](https://codeforces.com/contest/1993/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1993/submission/334679045) | `constructive algorithms` `greedy` `*1100` | Aug/20/2025 07:58 PM |
+| 52 | [C - Make it Equal](https://codeforces.com/contest/2131/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2131/submission/333346034) | `math` `number theory` `*1100` | Aug/10/2025 08:39 PM |
 | 51 | [B - Begginer's Zelda](https://codeforces.com/contest/1905/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1905/submission/333150702) | `greedy` `trees` `*1100` | Aug/09/2025 07:19 PM |
 | 50 | [B - Interesting drink](https://codeforces.com/contest/706/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/706/submission/332037527) | `binary search` `dp` `implementation` `*1100` | Aug/02/2025 10:52 AM |
 | 49 | [B - Pathless](https://codeforces.com/contest/2130/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2130/submission/331800870) | `constructive algorithms` `*1100` | Jul/31/2025 09:04 PM |
