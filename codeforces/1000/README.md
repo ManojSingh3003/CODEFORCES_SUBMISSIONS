@@ -2,6 +2,8 @@
 
 | # | Title | Solution | Tags | Submitted |
 |:-:|-------|----------|------|-----------|
+| 56 | [H - Anurag's Grand Appearance](https://codeforces.com/contest/639510/problem/H) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/639510/submission/342610546) | `*1000` | Oct/08/2025 08:30 PM |
+| 55 | [B - Deck of Cards](https://codeforces.com/contest/2145/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2145/submission/342299826) | `greedy` `implementation` `*1000` | Oct/06/2025 09:20 PM |
 | 54 | [C - Premutation](https://codeforces.com/contest/1790/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1790/submission/335572843) | `brute force` `implementation` `math` `*1000` | Aug/26/2025 02:30 PM |
 | 53 | [D - Nilanjan aur Gaayab Ginti ka Raaz](https://codeforces.com/contest/630676/problem/D) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/630676/submission/335509786) | `*1000` | Aug/25/2025 07:36 PM |
 | 52 | [C1 - The Cunning Seller (easy version)](https://codeforces.com/contest/2132/problem/C1) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2132/submission/334892267) | `greedy` `math` `*1000` | Aug/21/2025 09:13 PM |

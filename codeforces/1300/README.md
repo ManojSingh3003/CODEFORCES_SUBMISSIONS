@@ -2,6 +2,8 @@
 
 | # | Title | Solution | Tags | Submitted |
 |:-:|-------|----------|------|-----------|
+| 57 | [C - Monocarp's String](https://codeforces.com/contest/2145/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2145/submission/342317096) | `binary search` `greedy` `strings` `*1300` | Oct/06/2025 09:49 PM |
+| 56 | [B - Catching the Krug](https://codeforces.com/contest/2152/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2152/submission/341700964) | `games` `*1300` | Oct/03/2025 09:18 PM |
 | 55 | [C - Petya and Catacombs](https://codeforces.com/contest/886/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/886/submission/337222423) | `dsu` `greedy` `implementation` `trees` `*1300` | Sep/07/2025 11:57 AM |
 | 54 | [A - Xor-tree](https://codeforces.com/contest/429/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/429/submission/337140702) | `dfs and similar` `trees` `*1300` | Sep/06/2025 05:52 PM |
 | 53 | [C - Anji's Binary Tree](https://codeforces.com/contest/1900/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1900/submission/337105341) | `dfs and similar` `dp` `trees` `*1300` | Sep/06/2025 12:57 PM |

@@ -2,9 +2,16 @@
 
 | # | Title | Solution | Tags | Submitted |
 |:-:|-------|----------|------|-----------|
-| 55 | [B - Omkar and Heavenly Tree](https://codeforces.com/contest/1583/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1583/submission/336722246) | `constructive algorithms` `trees` `*1200` | Sep/03/2025 01:28 PM |
-| 54 | [A - Reposts](https://codeforces.com/contest/522/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/522/submission/336636272) | `*special` `dfs and similar` `dp` `graphs` `trees` `*1200` | Sep/02/2025 07:53 PM |
-| 53 | [D - Apple Tree](https://codeforces.com/contest/1843/problem/D) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1843/submission/336535106) | `combinatorics` `dfs and similar` `dp` `math` `trees` `*1200` | Sep/01/2025 10:35 PM |
+| 62 | [C - Kangaroos Beware: 18 & 45 Incoming](https://codeforces.com/contest/641667/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/641667/submission/343258870) | `*1200` | Oct/12/2025 02:45 PM |
+| 61 | [B - Petr and a Combination Lock](https://codeforces.com/contest/1097/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1097/submission/343238362) | `bitmasks` `brute force` `dp` `*1200` | Oct/12/2025 12:18 PM |
+| 60 | [I - Amrish's Special Lunch Plate](https://codeforces.com/contest/639510/problem/I) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/639510/submission/342608351) | `*1200` | Oct/08/2025 08:14 PM |
+| 59 | [C - A-B Palindrome](https://codeforces.com/contest/1512/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1512/submission/342410061) | `constructive algorithms` `implementation` `strings` `*1200` | Oct/07/2025 02:28 PM |
+| 58 | [C1 - k-LCM (easy version)](https://codeforces.com/contest/1497/problem/C1) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1497/submission/342400398) | `constructive algorithms` `math` `*1200` | Oct/07/2025 01:09 PM |
+| 57 | [C - Challenging Cliffs](https://codeforces.com/contest/1537/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1537/submission/341236389) | `constructive algorithms` `greedy` `implementation` `math` `*1200` | Sep/30/2025 11:11 PM |
+| 56 | [B - Omkar and Heavenly Tree](https://codeforces.com/contest/1583/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1583/submission/336722246) | `constructive algorithms` `trees` `*1200` | Sep/03/2025 01:28 PM |
+| 55 | [A - Reposts](https://codeforces.com/contest/522/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/522/submission/336636272) | `*special` `dfs and similar` `dp` `graphs` `trees` `*1200` | Sep/02/2025 07:53 PM |
+| 54 | [D - Apple Tree](https://codeforces.com/contest/1843/problem/D) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1843/submission/336535106) | `combinatorics` `dfs and similar` `dp` `math` `trees` `*1200` | Sep/01/2025 10:35 PM |
+| 53 | [C - Against the Difference](https://codeforces.com/contest/2136/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2136/submission/336128133) | `data structures` `dp` `*1200` | Aug/29/2025 05:36 PM |
 | 52 | [C - Even Larger](https://codeforces.com/contest/2134/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2134/submission/335690036) | `brute force` `greedy` `implementation` `*1200` | Aug/26/2025 09:46 PM |
 | 51 | [B - Add 0 or K](https://codeforces.com/contest/2134/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2134/submission/335672672) | `constructive algorithms` `math` `number theory` `*1200` | Aug/26/2025 09:15 PM |
 | 50 | [E - Aatish aur Sikke ki Jugaad](https://codeforces.com/contest/630676/problem/E) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/630676/submission/335575110) | `*1200` | Aug/26/2025 02:41 PM |

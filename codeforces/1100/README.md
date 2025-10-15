@@ -2,6 +2,8 @@
 
 | # | Title | Solution | Tags | Submitted |
 |:-:|-------|----------|------|-----------|
+| 56 | [B - Abraham's Great Escape](https://codeforces.com/contest/2155/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2155/submission/342171920) | `constructive algorithms` `graphs` `*1100` | Oct/06/2025 12:44 PM |
+| 55 | [C - Cake Assignment](https://codeforces.com/contest/2139/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2139/submission/337609066) | `bitmasks` `constructive algorithms` `greedy` `*1100` | Sep/08/2025 09:03 PM |
 | 54 | [D - Coprime](https://codeforces.com/contest/1742/problem/D) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1742/submission/334680264) | `brute force` `greedy` `number theory` `*1100` | Aug/20/2025 08:07 PM |
 | 53 | [B - Parity and Sum](https://codeforces.com/contest/1993/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1993/submission/334679045) | `constructive algorithms` `greedy` `*1100` | Aug/20/2025 07:58 PM |
 | 52 | [C - Make it Equal](https://codeforces.com/contest/2131/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2131/submission/333346034) | `math` `number theory` `*1100` | Aug/10/2025 08:39 PM |

@@ -2,7 +2,10 @@
 
 | # | Title | Solution | Tags | Submitted |
 |:-:|-------|----------|------|-----------|
-| 49 | [A - Bmail Computer Network](https://codeforces.com/contest/1057/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1057/submission/336509748) | `*special` `dfs and similar` `trees` `*900` | Sep/01/2025 07:12 PM |
+| 52 | [B - Harish's Caffeine Shuffle](https://codeforces.com/contest/639510/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/639510/submission/342598737) | `*900` | Oct/08/2025 07:12 PM |
+| 51 | [B - Another Divisibility Problem](https://codeforces.com/contest/2140/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2140/submission/341170238) | `constructive algorithms` `math` `number theory` `*900` | Sep/30/2025 03:07 PM |
+| 50 | [A - Bmail Computer Network](https://codeforces.com/contest/1057/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1057/submission/336509748) | `*special` `dfs and similar` `trees` `*900` | Sep/01/2025 07:12 PM |
+| 49 | [B - Like the Bitset](https://codeforces.com/contest/2136/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2136/submission/336112949) | `constructive algorithms` `greedy` `two pointers` `*900` | Aug/29/2025 03:19 PM |
 | 48 | [A - PizzaForces](https://codeforces.com/contest/1555/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1555/submission/335572651) | `brute force` `math` `*900` | Aug/26/2025 02:29 PM |
 | 47 | [C - Piyush ki Pizza Pareshani](https://codeforces.com/contest/630676/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/630676/submission/335513329) | `*900` | Aug/25/2025 08:02 PM |
 | 46 | [B - The Secret Number](https://codeforces.com/contest/2132/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2132/submission/334860614) | `math` `*900` | Aug/21/2025 08:42 PM |

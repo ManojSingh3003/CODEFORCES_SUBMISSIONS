@@ -2,6 +2,17 @@
 
 | # | Title | Solution | Tags | Submitted |
 |:-:|-------|----------|------|-----------|
+| 137 | [B - Bavuma's Dilemma](https://codeforces.com/contest/641667/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/641667/submission/343256744) | `*800` | Oct/12/2025 02:30 PM |
+| 136 | [A - Beautiful Rating](https://codeforces.com/contest/641667/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/641667/submission/343255670) | `*800` | Oct/12/2025 02:23 PM |
+| 135 | [D - Shahnwaz's Memory Chip](https://codeforces.com/contest/639510/problem/D) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/639510/submission/342599741) | `*800` | Oct/08/2025 07:18 PM |
+| 134 | [A - Harshit's Pre-CODEFEST Panic](https://codeforces.com/contest/639510/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/639510/submission/342597318) | `*800` | Oct/08/2025 07:04 PM |
+| 133 | [A - Candies for Nephews](https://codeforces.com/contest/2145/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2145/submission/342232902) | `math` `*800` | Oct/06/2025 08:07 PM |
+| 132 | [A - El fucho](https://codeforces.com/contest/2155/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2155/submission/342167846) | `implementation` `math` `*800` | Oct/06/2025 12:10 PM |
+| 131 | [A - Increase or Smash](https://codeforces.com/contest/2152/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2152/submission/341660257) | `greedy` `implementation` `*800` | Oct/03/2025 08:07 PM |
+| 130 | [A - Shift Sort](https://codeforces.com/contest/2140/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2140/submission/341169967) | `greedy` `sortings` `*800` | Sep/30/2025 03:04 PM |
+| 129 | [B - Cake Collection](https://codeforces.com/contest/2139/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2139/submission/337569777) | `greedy` `*800` | Sep/08/2025 08:14 PM |
+| 128 | [A - Maple and Multiplication](https://codeforces.com/contest/2139/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2139/submission/337559392) | `greedy` `math` `*800` | Sep/08/2025 08:07 PM |
+| 127 | [A - In the Dream](https://codeforces.com/contest/2136/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2136/submission/336108668) | `greedy` `math` `*800` | Aug/29/2025 02:41 PM |
 | 126 | [A - Painting With Two Colors](https://codeforces.com/contest/2134/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2134/submission/335622007) | `constructive algorithms` `implementation` `math` `*800` | Aug/26/2025 08:11 PM |
 | 125 | [B - Lost Permutation](https://codeforces.com/contest/1759/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1759/submission/335572479) | `math` `*800` | Aug/26/2025 02:28 PM |
 | 124 | [B - Ronit Ki Permutation Dhundo](https://codeforces.com/contest/630676/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/630676/submission/335502933) | `*800` | Aug/25/2025 06:45 PM |
